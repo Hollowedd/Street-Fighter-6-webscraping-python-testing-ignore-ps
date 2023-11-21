@@ -9,9 +9,8 @@ import traceback
 df = pd.DataFrame()
 url = 'https://www.streetfighter.com/6/buckler/ranking/master'
 headers = {
-    'Cookie': 'buckler_r_id=b2930a74-ab86-48e7-b4a6-403a472fc442; buckler_praise_date=1700179834903; '
-              'buckler_id=m7niM9Mnoo8GCKIPp8vOe9BCdy-9GC4wpdXz63dIDsZWglCjUS3ATvk7o6YNOUPT',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0',
+    'Cookie': 'input cookie information',
+    'User-Agent': 'user agent information goes here',
     'Host': 'www.streetfighter.com',
     'referer': url,
 
